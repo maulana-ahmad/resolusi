@@ -3,9 +3,12 @@ rencana coding setelah semua selesai :
   - vanilla javascript
 * belajar react.js
   - framework javascript
+* belajar vue.js
+  - framework javascript
 * belajar node.js
   - framework javascript
 * belajar angular.js
   - framework javascript
 * belajar phyton
   - mulai dari dasar
+* belajar css3
