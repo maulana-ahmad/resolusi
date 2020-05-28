@@ -1,0 +1,4 @@
+rencana coding setelah semua selesai :
+* belajar javascript lanjutan
+* belajar react.js
+* belajar node.js
