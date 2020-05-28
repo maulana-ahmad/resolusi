@@ -7,8 +7,10 @@ rencana coding setelah semua selesai :
   - framework javascript
 * belajar node.js
   - framework javascript
+  - untuk back end
 * belajar angular.js
   - framework javascript
 * belajar phyton
   - mulai dari dasar
 * belajar css3
+* belajar html5
