@@ -1,4 +1,7 @@
 rencana coding setelah semua selesai :
 * belajar javascript lanjutan
+  - vanilla javascript
 * belajar react.js
+  - framework javascript
 * belajar node.js
+  - framework javascript
