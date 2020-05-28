@@ -5,3 +5,7 @@ rencana coding setelah semua selesai :
   - framework javascript
 * belajar node.js
   - framework javascript
+* belajar angular.js
+  - framework javascript
+* belajar phyton
+  - mulai dari dasar
